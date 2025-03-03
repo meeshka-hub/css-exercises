@@ -98,3 +98,7 @@ button.cancel {
   align-items: center;
 }
 
+.close-button {
+  flex-shrink: 0;
+}
+
